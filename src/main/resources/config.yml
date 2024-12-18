@@ -1,0 +1,15 @@
+settings:
+  no-move: true
+  chat-disable: true
+  block-commands: true
+
+events:
+  always-day: true
+  block-weather: true
+  block-break: true
+  void-spawn: true
+
+commands:
+  - /register
+  - /login
+  - /authcore
