@@ -8,3 +8,10 @@ authors: [Vasty]
 main: dev.club.aquatic.AuthCore
 api-version: '1.20'
 website: https://github.com/aquaticstudios
+
+softdepend:
+  - AquaSpawn
+
+commands:
+  authcore:
+    description: Using commands from settings, events & commands
